@@ -167,7 +167,7 @@ Your Hub for TOR Expertise : Guides, TOR links, Directory, TOR Onion Links and D
 | --- | --- |
 | Distributed Denial of Secrets | [ddosxlvzzow7scc7egy75gpke54hgbg2frahxzaw6qq5osnzm7wistid.onion](http://ddosxlvzzow7scc7egy75gpke54hgbg2frahxzaw6qq5osnzm7wistid.onion) |
 | RelateList | [relateoak2hkvdty6ldp7x67hys7pzaeax3hwhidbqkjzva3223jpxqd.onion](http://relateoak2hkvdty6ldp7x67hys7pzaeax3hwhidbqkjzva3223jpxqd.onion) |
-| RedRoom | [http://enntzueldbxwwzswih73dnp2mx25ch2kxx6ansb7s7n3l2xpc3x2cgid.onion](http://enntzueldbxwwzswih73dnp2mx25ch2kxx6ansb7s7n3l2xpc3x2cgid.onion) |
+| RedRoom | [enntzueldbxwwzswih73dnp2mx25ch2kxx6ansb7s7n3l2xpc3x2cgid.onion](http://enntzueldbxwwzswih73dnp2mx25ch2kxx6ansb7s7n3l2xpc3x2cgid.onion) |
 
 
 
